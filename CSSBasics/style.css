@@ -17,3 +17,8 @@ p{
 
     border: 4px dashed crimson;
 }
+
+li{
+    list-style-type: square;
+    text-shadow: 2px 2px lightgray;
+}
