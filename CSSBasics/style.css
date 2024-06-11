@@ -17,9 +17,16 @@ p{
     border-color: crimson; */
 
     border: 4px dashed crimson;
+    margin: 20px;
+    padding: 20;
 }
 
 li{
     list-style-type: square;
     text-shadow: 2px 2px lightgray;
+}
+span{
+    border: 4px dashed crimson;
+    margin: 20px;
+    padding: 20;
 }
