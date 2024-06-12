@@ -38,3 +38,8 @@ div{
     margin: 20px;
     font-weight: bold;
 }
+
+p{
+    border: inherit;
+    margin: inherit;
+}
