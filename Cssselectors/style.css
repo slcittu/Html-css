@@ -20,3 +20,7 @@ div#context{
 div p{
     color: chocolate;
 }
+
+div .error{
+    color: darkgray;
+}
