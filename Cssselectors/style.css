@@ -1,3 +1,7 @@
-p{
+p.error{
     color: aqua;
+}
+
+p.success{
+    color: blueviolet;
 }
