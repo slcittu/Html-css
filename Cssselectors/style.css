@@ -37,9 +37,11 @@ div{
     border: 2px solid blueviolet;
     margin: 20px;
     font-weight: bold;
+    color: aquamarine;
 }
 
 p{
     border: inherit;
     margin: inherit;
+    color: black;
 }
