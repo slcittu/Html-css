@@ -13,3 +13,6 @@ p.success.feedback{
 #context{
     background-color: bisque;
 }
+div#context{
+    background-color: cadetblue;
+}
