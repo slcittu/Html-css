@@ -25,6 +25,9 @@ div .error{
     color: darkgray;
 } */
 
-a[href="https://www.youtube.com"]{
+a[href*="youtube"]{
     background-color: cadetblue;
+    text-decoration: none;
+    color: azure;
+    text-transform: uppercase
 }
