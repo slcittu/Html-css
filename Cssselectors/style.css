@@ -5,3 +5,7 @@ p.error{
 p.success{
     color: blueviolet;
 }
+
+p.success.feedback{
+    border: 3px dotted paleturquoise;
+}
