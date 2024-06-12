@@ -40,7 +40,7 @@ div{
     color: aquamarine;
 }
 
-p{
+div p{
     border: inherit;
     margin: inherit;
     color: black;
