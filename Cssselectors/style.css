@@ -1,4 +1,4 @@
-p.error{
+/* p.error{
     color: aqua;
 }
 
@@ -15,4 +15,8 @@ p.success.feedback{
 }
 div#context{
     background-color: cadetblue;
+} */
+
+div p{
+    color: chocolate;
 }
