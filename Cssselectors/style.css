@@ -35,4 +35,6 @@ div .error{
 div{
     color: coral;
     border: 2px solid blueviolet;
+    margin: 20px;
+    font-weight: bold;
 }
