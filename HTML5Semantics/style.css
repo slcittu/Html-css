@@ -3,7 +3,7 @@ header{
     padding: 20px;
     text-align: center;
     position: fixed;
-    width: 100px;
+    width: 100%;
     z-index: 1;
     top: 0px;
     left: 0px;
