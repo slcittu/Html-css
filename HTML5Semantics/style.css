@@ -1,3 +1,8 @@
+body, ul, li, h1, h2, a{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+}
 header{
     background-color: #f63232;
     padding: 20px;
