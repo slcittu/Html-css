@@ -1,5 +1,26 @@
-header{
+/* header{
+} */
+
+.banner{
     position: relative;
-    left: 100px;
-    top: 100px;
+}
+.banner img{
+    max-width: 100%;
+}
+
+.banner .welcome{
+    position: absolute;
+    left: 0px;
+    top: 30%;
+    background-color: #feb614;
+    color: white;
+    padding: 30px;
+}
+
+.banner h2{
+    font-size: 72px;
+}
+
+.banner h2 span{
+    font-size: 1.3em;
 }
