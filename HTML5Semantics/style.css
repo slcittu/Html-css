@@ -1,5 +1,13 @@
-/* header{
-} */
+header{
+    background-color: #f63232;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    width: 100px;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+}
 
 .banner{
     position: relative;
@@ -24,3 +32,4 @@
 .banner h2 span{
     font-size: 1.3em;
 }
+
