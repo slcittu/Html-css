@@ -122,3 +122,19 @@ footer{
     padding: 10px;
     text-align: center;
 }
+
+nav li:hover{
+    text-decoration: underline;
+}
+.images li:hover{
+    position: relative;
+    top: -10px;
+}
+
+ form input:focus{
+    border: 4px dashed #4b4b4b;
+    outline: none;
+}
+form input:valid{
+    border: 4px solid #44ff44;
+}
