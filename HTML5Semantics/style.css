@@ -173,3 +173,17 @@ form input:valid{
         display: block;
     }
 }
+@media screen and (max-width:560px) {
+    nav li{
+        font-size: 20px;
+        display: block;
+        width: 100%;
+        margin: 12px 0px;
+    }
+    header{
+        position: relative;
+    }
+    nav{
+        top: 0px;
+    }
+}
