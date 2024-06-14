@@ -139,12 +139,11 @@ form input:valid{
     border: 4px solid #44ff44;
 }
 
-@media screen and (max-width:1400px) {
-    .banner .welcome{
+@media screen and (max-width:1400px){
+    .banner .welcome h2{
         font-size: 60px;
     }
     nav li{
         font-size: 18px;
-    }
-    
+    }    
 }
