@@ -138,3 +138,13 @@ nav li:hover{
 form input:valid{
     border: 4px solid #44ff44;
 }
+
+@media screen and (max-width:1400px) {
+    .banner .welcome{
+        font-size: 60px;
+    }
+    nav li{
+        font-size: 18px;
+    }
+    
+}
