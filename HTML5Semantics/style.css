@@ -153,3 +153,23 @@ form input:valid{
         font-size: 40px;
     }
 }
+
+@media screen and (max-width:700px){
+    .banner .welcome{
+        position: relative;
+        text-align: center;
+        top: -4px;
+    }
+    .banner .welcome br {
+        font-size: 25px
+    };
+    .banner .welcome span{
+        font-size: 1em;
+        top: 0px;
+    }
+    .images li{
+        width: 100%;
+        margin: 20px auto;
+        display: block;
+    }
+}
